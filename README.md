@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+My first published script
+you can use it to simply make your py file an exe file.
+you should firest:
+have python installed
+have pyinstaller installed
+All this script does is automate the comand prompt for pyinstaller just double click it then choose the py file you want to make an executable.
